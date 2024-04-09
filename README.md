@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack**
-
+- 🌱 I’m currently learning **Advance Js & 2D Animations in Css**
 - 📫 How to reach me **sundutta68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
