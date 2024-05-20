@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Js & 2D Animations in Css**
+- 🌱 I’m currently learning **Full stack**
+
 - 📫 How to reach me **sundutta68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,3 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipankarq&show_icons=true&locale=en&layout=compact" alt="dipankarq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankarq&" alt="dipankarq" /></p>
+
