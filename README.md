@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Lazarev Ai&Ml Desigen Product](gorgeous-vacherin-f3f39b.netlify.app)
 
-- 🌱 I’m currently learning **React,Types Script**
+- 🌱 I’m currently learning **React,Types Script ,Ai Agent Automation**
 
 - 💬 Ask me about **react , js**
 
